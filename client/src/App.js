@@ -1,14 +1,13 @@
 import React from 'react';
+import Menu from "./components/SideNav";
 
-class App extends React.Component {
-
-  render () {
+function App() {
   return (
-    <div className="App">
+    <div className="container">
       <h3>Visuals</h3>
+      <Menu />
     </div>
   );
-  }
 }
 
 export default App;
