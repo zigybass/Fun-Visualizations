@@ -1,0 +1,22 @@
+{
+  "name": "fun-visualizations",
+  "version": "1.0.0",
+  "description": "Fun with visuals! Creative sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zigybass/Fun-Visualizations.git"
+  },
+  "author": "Chris Zeigler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zigybass/Fun-Visualizations/issues"
+  },
+  "homepage": "https://github.com/zigybass/Fun-Visualizations#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
